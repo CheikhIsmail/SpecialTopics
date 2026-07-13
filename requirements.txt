@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+openai
+supabase
+sentence-transformers
+python-dotenv
+python-multipart
+requests
+numpy
+torch

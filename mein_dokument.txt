@@ -1,0 +1,9 @@
+Python is a popular programming language used for automation, data analysis, machine learning, and web development.
+
+FastAPI is a modern Python web framework for building APIs. It is fast, easy to use, and supports automatic API documentation.
+
+Retrieval-Augmented Generation, also called RAG, combines search with language models. First, relevant text chunks are retrieved from documents. Then, the language model answers using only that retrieved context.
+
+Chunking is important because long documents cannot always fit into the context window of a language model. Splitting text into smaller chunks makes retrieval easier.
+
+Overlap helps prevent information loss between chunks. If important information is located at the edge of one chunk, overlap can make sure it also appears in the next chunk.
